@@ -1,0 +1,17 @@
+{
+  "name": "pubsub-gpc",
+  "version": "1.0.0",
+  "description": "Sendings logs from GPC",
+  "main": "index.js",
+  "scripts": {
+    "test": "init"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/pubsub": "^4.0.2",
+    "axios": "^1.5.0",
+    "axios-retry": "^3.7.0",
+    "dotenv": "^16.3.1"
+  }
+}
